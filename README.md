@@ -26,12 +26,7 @@ $ virtualenv env
 $ source env/bin/activate
 ```
 
-4. Then install the dependencies:
-```
-$ (env) pip install -r requirements.txt
-```
-
-5. Finally start the program:
+4. Finally start the program:
 ```
 $ (env) python3 hoHoHo.py
 ```
